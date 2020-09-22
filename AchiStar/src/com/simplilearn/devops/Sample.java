@@ -6,6 +6,7 @@ public class Sample {
 		Calculate cal= new Calculate();
 		cal.sum(4, 6);
 		System.out.println("Hello World!!!");
+		System.out.println("Code is pushed!!!");
 	}
 
 }
