@@ -4,6 +4,7 @@
   <artifactId>AchiStar</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
+  <finalName>achistar-devops-simplilearn</finalName>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
