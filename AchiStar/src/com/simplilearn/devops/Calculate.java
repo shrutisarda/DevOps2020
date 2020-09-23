@@ -1,8 +1,8 @@
 package com.simplilearn.devops;
 
 public class Calculate {
-public int sum(int x,int y)
+public int sum(int x,int y, int z)
 {
-	return x+y;
+	return x+y+z;
 }
 }
